@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736025986430",
+    "firebase_url": "https://investjovembr-1927a.firebaseio.com",
+    "project_id": "investjovembr-1927a",
+    "storage_bucket": "investjovembr-1927a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736025986430:android:2d4bd4a6b209db6d12df2f",
+        "android_client_info": {
+          "package_name": "com.example.investjovembr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736025986430-ovgh1qsobqnv3a39n2mpb8bvkq4qav25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9_NrqwG1xZcc8R1XKdjsh6bNvRIrqZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736025986430-ovgh1qsobqnv3a39n2mpb8bvkq4qav25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
